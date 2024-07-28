@@ -3,5 +3,7 @@
   'Data-Zone': 'A repositry which contains data science related file and project'
 }
 ```
-## EDA on Data-Fit dataset from Kaggle link 👉 https://www.kaggle.com/datasets/singhakash/fitbit-dataset
+
+## 📈 EDA (Exploratory Data Analysis)
+1. [![Fit-Bit Dataset ⌚]()](https://github.com/theujjwalsingh18/Data-Zone/blob/main/FitBit-EDA.ipynb)
 
